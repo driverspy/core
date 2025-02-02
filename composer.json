@@ -1,5 +1,6 @@
 {
     "name": "cachethq/core",
+    "version": "3.x-dev",
     "description": "Cachet core package.",
     "license": "proprietary",
     "keywords": [
